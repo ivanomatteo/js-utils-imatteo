@@ -1,6 +1,6 @@
 {
   "name": "js-utils-imatteo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "common js utils functions by Ivano Matteo",
   "main": "index.js",
   "scripts": {},
