@@ -5,7 +5,7 @@ exports.escapeRegExp = function (string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // $& means the whole matched string
 }
 
-
+//
 exports.objToQuery = function(obj) {
     let encVal = (v) => {
         if (typeof v === 'object') {
